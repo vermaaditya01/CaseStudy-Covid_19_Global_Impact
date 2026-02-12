@@ -1,4 +1,4 @@
-# CaseStudy-Covid_19_Global_Impact
+# CaseStudy-Covid_19_Global_Impact Analysis
 Data-driven analysis project focused on examining time-series Covid-19  data enabling the assessment of pandemic progression through confirmed cases, recovery patterns and deaths across different countries and time periods.
 
 ### 1) Objectives ✅
